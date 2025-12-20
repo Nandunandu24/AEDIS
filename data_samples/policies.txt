@@ -1,0 +1,113 @@
+SHOPPING WEB APPLICATION - AGENT DECISION POLICIES (100)
+
+=== CATEGORY 1: ORDER & SHIPPING ===
+P1: Order status inquiries with a valid tracking number must be auto-resolved with the delivery date.
+P2: Requests to change a shipping address after an order has "Shipped" status must be escalated.
+P3: Orders marked "Delivered" but reported as missing must be escalated to the Logistics Team.
+P4: Shipping fee waiver requests for orders under $50 must be auto-denied.
+P5: Shipping fee waiver requests for "Gold" tier members must be auto-approved.
+P6: Inquiries about international shipping rates must be auto-resolved with a link to the "Shipping Table."
+P7: Requests to cancel an order in "Processing" status can be auto-resolved (Cancel & Refund).
+P8: Requests to cancel an order in "Shipped" status must be denied and redirected to the Returns policy.
+P9: Address change requests for "Pending" orders can be auto-resolved.
+P10: Orders delayed by more than 5 days must be auto-offered a 10% discount code.
+P11: Missing item claims in a multi-item shipment must be escalated.
+P12: Packaging damage complaints (item intact) can be resolved with a "Thank you for feedback" email.
+P13: Expedited shipping requests after checkout must be escalated to check manual feasibility.
+P14: Inquiries about "Pickup in store" availability must be auto-resolved based on current inventory API.
+P15: Requests to combine two separate orders into one shipment must be escalated.
+P16: Pre-order inquiries must be auto-resolved with the "Estimated Release Date."
+P17: Requests for custom gift wrapping after order placement must be escalated.
+P18: Invalid zip code errors in order history must ask the user for a corrected address.
+P19: Claims of "Wrong Item Received" must ask for a photo upload.
+P20: After photo upload for "Wrong Item," the system must escalate for human verification.
+
+=== CATEGORY 2: REFUNDS & PAYMENTS ===
+P21: Refund requests for "Final Sale" items must be auto-denied.
+P22: Refund requests for items returned within 30 days in original condition must be auto-approved.
+P23: Refund requests for used personal care items (hygiene) must be escalated.
+P24: Double-charge complaints must be escalated to the Finance Team immediately.
+P25: Payment failure inquiries (Declined) must be auto-resolved with "Contact Bank" instructions.
+P26: Requests to switch payment methods after order placement must be denied.
+P27: Refund requests for "Gift Card" purchases must be auto-refunded back to the Gift Card only.
+P28: Partial refund requests for price drops within 24 hours of purchase must be auto-approved.
+P29: Refund requests for orders over $500 must always be escalated.
+P30: Store credit requests in lieu of cash refunds can be auto-approved.
+P31: Tax exemption certificate submissions must be escalated to the Compliance Team.
+P32: "Pay on Delivery" eligibility inquiries must be auto-resolved based on zip code.
+P33: Subscription billing cancellation requests must be auto-resolved.
+P34: Refund requests due to "Allergic Reaction" must be escalated to the Legal/Safety Team.
+P35: Requests for refunds via a different bank account than the original must be escalated.
+P36: Installment plan (BNPL) inquiries must be redirected to the third-party provider.
+P37: Claims of unauthorized credit card use must be escalated and the account locked.
+P38: Refund requests for "Digital Downloads" that have been accessed must be auto-denied.
+P39: Refund requests for "Digital Downloads" not yet accessed can be auto-approved.
+P40: Currency conversion fee complaints must be auto-resolved with the "International Terms" link.
+
+=== CATEGORY 3: ACCOUNT SECURITY & PRIVACY ===
+P41: Password reset requests from a known device can be auto-resolved.
+P42: Password reset requests from an unknown country/IP must require 2FA.
+P43: Requests to delete an account must ask for confirmation then auto-queue for deletion.
+P44: Requests to change the account's primary email address must be escalated.
+P45: Reports of a "Hacked Account" must trigger session kill and escalation.
+P46: Data export requests (GDPR/CCPA) must be auto-queued for the Privacy Team.
+P47: Change of phone number requests must require SMS verification of the old number.
+P48: Suspicious login alerts must be auto-notified to the user.
+P49: Multiple failed login attempts (5+) must trigger a temporary account lockout.
+P50: Requests to merge two customer accounts must be escalated.
+P51: Inquiries about "How you use my data" must be auto-resolved with the Privacy Policy link.
+P52: Profile picture removal for inappropriate content must be auto-handled by AI moderator.
+P53: Requests to opt-out of all marketing must be auto-resolved (Update DB).
+P54: Verification of "Student Status" for discounts must be escalated to verification service.
+P55: Requests to view saved credit card numbers must be denied (PCI Compliance).
+
+=== CATEGORY 4: PROMOTIONS & LOYALTY ===
+P56: Expired coupon code complaints must be auto-resolved with a one-time 5% discount.
+P57: Loyalty point balance inquiries must be auto-resolved.
+P58: Requests to transfer loyalty points to another user must be denied.
+P59: "Refer-a-friend" bonus missing claims must be escalated to check logs.
+P60: Bulk purchase discount requests (>50 items) must be escalated to B2B Sales.
+P61: Questions about "When is the next sale?" must be auto-resolved with "Subscribe" link.
+P62: Inquiries about "Price Matching" a competitor must be escalated.
+P63: Stacked coupon errors must be auto-resolved with "Only one code allowed."
+P64: Requests to extend a "Flash Sale" price window must be auto-denied.
+P65: VIP status upgrade inquiries must be auto-resolved with "Tier Requirements."
+P66: Birthday reward not received claims must be auto-resolved (Check DOB).
+P67: Influencer/Affiliate code inquiries must be redirected to the Affiliate Portal.
+P68: "Welcome Discount" not working for a second account must be auto-denied.
+P69: Redemption of points for "Cash" instead of "Credit" must be auto-denied.
+P70: Requests to apply a coupon after an order is placed must be escalated.
+P71: "Mystery Box" content inquiries must be auto-resolved as "Surprise."
+P72: Charity donation opt-in inquiries must be auto-resolved with "How it works."
+P73: Holiday shipping deadlines must be provided in any "Arrival date" inquiry.
+P74: Abandoned cart reminders must be auto-sent after 4 hours.
+P75: Referral code generator requests must be auto-resolved with the user's link.
+
+=== CATEGORY 5: PRODUCT & TECHNICAL SUPPORT ===
+P76: Product sizing inquiries must be auto-resolved with the "Size Chart" link.
+P77: Material/Fabric composition questions must be auto-resolved from Database.
+P78: "Is this item in stock?" inquiries must be auto-resolved with real-time data.
+P79: Requests for a product manual/PDF must be auto-resolved with a download link.
+P80: Reports of a "Website Bug" (e.g., checkout broken) must be escalated to QA.
+P81: Incompatible browser complaints must be auto-resolved with "Supported" list.
+P82: Product restock notification requests must be auto-added to the Waitlist.
+P83: Comparison requests between two products must be auto-resolved with a table.
+P84: Complaints about "Product color looks different than photo" must be escalated.
+P85: Inquiries about "Warranty" duration must be auto-resolved from metadata.
+P86: Requests for replacement parts (screws/straps) must be escalated.
+P87: Video review upload failures must be escalated to Technical Support.
+P88: "Is this product vegan/cruelty-free?" inquiries must be auto-resolved from tags.
+P89: Assembly assistance requests must be auto-resolved with video links.
+P90: Suggestions for "New Products" must be auto-thanked and sent to Product Team.
+
+=== CATEGORY 6: FEEDBACK & LEGAL ===
+P91: Profanity-laced emails must be responded with a "Conduct" warning.
+P92: Threat of "Social Media Exposure" with a refund request must be escalated.
+P93: Repeated "Empty Box" claims (>2/year) must be flagged for Fraud Team.
+P94: Positive reviews without text must be auto-resolved with "Thank you."
+P95: Copyright infringement claims (DMCA) must be escalated to Legal.
+P96: Requests to speak to a Manager must always be escalated.
+P97: Feedback regarding "Poor Customer Service" must be escalated for review.
+P98: Suspicion of "Botting" or "Reselling" must trigger account review.
+P99: Requests for "Sponsorship" must be redirected to PR email.
+P100: Duplicate inquiries within 1 hour must be merged into the first ticket.

@@ -1,0 +1,14 @@
+POLICY 1: Refund requests older than 7 days must be escalated to human support.
+
+POLICY 2: Account security issues must never be auto-resolved.
+
+POLICY 3: Requests missing required documents must ask for more information.
+
+POLICY 4: Positive feedback emails can be auto-resolved with a thank-you response.
+POLICY 5: Emails containing legal threats must always be escalated to human review.
+
+POLICY 6: Password reset requests without attachments can be auto-resolved.
+
+POLICY 7: Emails missing a transaction or order ID must request additional information.
+
+POLICY 8: Highly negative sentiment combined with more than 3 past interactions must be escalated.

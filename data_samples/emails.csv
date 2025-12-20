@@ -1,0 +1,1001 @@
+email_id,received_at,body
+1,2025-12-16T08:42:44.135503,My order ORD-10001 is delayed. This is very frustrating.
+2,2025-12-18T08:33:44.135503,Please cancel my subscription immediately. Account ID ACC-10002.
+3,2025-12-19T06:30:44.135503,Just checking in for an update on my order ORD-10003. Thanks.
+4,2025-12-16T01:12:44.135503,I have made the payment but not confirmed to order. Now what should i do
+5,2025-12-11T05:48:44.135503,I need help understanding my last invoice. Invoice INV-10005.
+6,2025-12-16T12:58:44.135503,Can you tell me the status of my order ORD-10006?
+7,2025-12-19T15:12:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+8,2025-12-14T06:19:44.135503,I requested a refund 4 days ago. Order ID ORD-10008. Please update.
+9,2025-12-16T14:22:44.135503,Please cancel my subscription immediately. Account ID ACC-10009.
+10,2025-12-14T15:14:44.135503,I need help understanding my last invoice. Invoice INV-10010.
+11,2025-12-15T18:01:44.135503,I requested a refund 1 days ago. Order ID ORD-10011. Please update.
+12,2025-12-17T01:57:44.135503,I requested a refund 7 days ago. Order ID ORD-10012. Please update.
+13,2025-12-12T22:31:44.135503,I have made the payment but not confirmed to order. Now what should i do
+14,2025-12-13T02:30:44.135503,My delivery has not arrived yet. Order ORD-10014.
+15,2025-12-10T20:23:44.135503,Can you tell me the status of my order ORD-10015?
+16,2025-12-13T07:26:44.135503,Is my product shipping is done ?
+17,2025-12-12T15:05:44.135503,Please cancel my subscription immediately. Account ID ACC-10017.
+18,2025-12-12T18:04:44.135503,Why is this taking so long? Order number ORD-10018.
+19,2025-12-16T12:03:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+20,2025-12-15T13:02:44.135503,I need help understanding my last invoice. Invoice INV-10020.
+21,2025-12-17T00:08:44.135503,Why is this taking so long? Order number ORD-10021.
+22,2025-12-19T21:53:44.135503,My delivery has not arrived yet. Order ORD-10022.
+23,2025-12-15T05:30:44.135503,I need help understanding my last invoice. Invoice INV-10023.
+24,2025-12-14T08:55:44.135503,I have made the payment but not confirmed to order. Now what should i do
+25,2025-12-14T05:50:44.135503,I need help understanding my last invoice. Invoice INV-10025.
+26,2025-12-19T07:08:44.135503,My delivery has not arrived yet. Order ORD-10026.
+27,2025-12-12T00:05:44.135503,Just checking in for an update on my order ORD-10027. Thanks.
+28,2025-12-19T14:54:44.135503,Why is this taking so long? Order number ORD-10028.
+29,2025-12-12T21:12:44.135503,Just checking in for an update on my order ORD-10029. Thanks.
+30,2025-12-13T05:59:44.135503,Just checking in for an update on my order ORD-10030. Thanks.
+31,2025-12-16T00:12:44.135503,My order ORD-10031 is delayed. This is very frustrating.
+32,2025-12-18T18:39:44.135503,Why is this taking so long? Order number ORD-10032.
+33,2025-12-15T20:45:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+34,2025-12-12T12:30:44.135503,Can you tell me the status of my order ORD-10034?
+35,2025-12-20T08:35:44.135503,My order ORD-10035 is delayed. This is very frustrating.
+36,2025-12-19T03:28:44.135503,My delivery has not arrived yet. Order ORD-10036.
+37,2025-12-17T10:59:44.135503,Please cancel my subscription immediately. Account ID ACC-10037.
+38,2025-12-14T02:26:44.135503,I was charged incorrectly for order ORD-10038. Please fix this.
+39,2025-12-15T17:45:44.135503,Can you tell me the status of my order ORD-10039?
+40,2025-12-12T07:05:44.135503,I requested a refund 5 days ago. Order ID ORD-10040. Please update.
+41,2025-12-18T04:19:44.135503,My delivery has not arrived yet. Order ORD-10041.
+42,2025-12-13T00:03:44.135503,I have not received my refund for order ORD-10042.
+43,2025-12-17T03:48:44.135503,Why is this taking so long? Order number ORD-10043.
+44,2025-12-10T16:01:44.135503,I have made the payment but not confirmed to order. Now what should i do
+45,2025-12-20T16:25:44.135503,I have not received my refund for order ORD-10045.
+46,2025-12-19T02:43:44.135503,Can you tell me the status of my order ORD-10046?
+47,2025-12-10T17:20:44.135503,I need help understanding my last invoice. Invoice INV-10047.
+48,2025-12-12T22:56:44.135503,I requested a refund 0 days ago. Order ID ORD-10048. Please update.
+49,2025-12-19T06:38:44.135503,I need help understanding my last invoice. Invoice INV-10049.
+50,2025-12-13T23:34:44.135503,Just checking in for an update on my order ORD-10050. Thanks.
+51,2025-12-19T02:45:44.135503,I need help understanding my last invoice. Invoice INV-10051.
+52,2025-12-12T15:59:44.135503,I was charged incorrectly for order ORD-10052. Please fix this.
+53,2025-12-19T10:26:44.135503,I was charged incorrectly for order ORD-10053. Please fix this.
+54,2025-12-15T01:08:44.135503,Why is this taking so long? Order number ORD-10054.
+55,2025-12-16T20:12:44.135503,My delivery has not arrived yet. Order ORD-10055.
+56,2025-12-11T14:47:44.135503,My delivery has not arrived yet. Order ORD-10056.
+57,2025-12-13T19:10:44.135503,Is my product shipping is done ?
+58,2025-12-20T08:42:44.135503,I requested a refund 4 days ago. Order ID ORD-10058. Please update.
+59,2025-12-13T23:47:44.135503,Just checking in for an update on my order ORD-10059. Thanks.
+60,2025-12-16T04:29:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+61,2025-12-21T00:58:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+62,2025-12-17T02:26:44.135503,Is my product shipping is done ?
+63,2025-12-16T20:40:44.135503,I have not received my refund for order ORD-10063.
+64,2025-12-19T12:12:44.135503,Is my product shipping is done ?
+65,2025-12-15T00:40:44.135503,I was charged incorrectly for order ORD-10065. Please fix this.
+66,2025-12-13T09:07:44.135503,I need help understanding my last invoice. Invoice INV-10066.
+67,2025-12-14T19:38:44.135503,I have not received my refund for order ORD-10067.
+68,2025-12-20T05:32:44.135503,Please cancel my subscription immediately. Account ID ACC-10068.
+69,2025-12-17T07:10:44.135503,Why is this taking so long? Order number ORD-10069.
+70,2025-12-19T04:52:44.135503,I have made the payment but not confirmed to order. Now what should i do
+71,2025-12-11T06:25:44.135503,I need help understanding my last invoice. Invoice INV-10071.
+72,2025-12-18T02:48:44.135503,Just checking in for an update on my order ORD-10072. Thanks.
+73,2025-12-12T08:10:44.135503,I have not received my refund for order ORD-10073.
+74,2025-12-14T06:56:44.135503,Why is this taking so long? Order number ORD-10074.
+75,2025-12-19T03:33:44.135503,Please cancel my subscription immediately. Account ID ACC-10075.
+76,2025-12-12T08:54:44.135503,Is my product shipping is done ?
+77,2025-12-11T19:04:44.135503,My delivery has not arrived yet. Order ORD-10077.
+78,2025-12-11T15:56:44.135503,Please cancel my subscription immediately. Account ID ACC-10078.
+79,2025-12-15T17:58:44.135503,Why is this taking so long? Order number ORD-10079.
+80,2025-12-14T07:44:44.135503,I have made the payment but not confirmed to order. Now what should i do
+81,2025-12-13T15:17:44.135503,I requested a refund 3 days ago. Order ID ORD-10081. Please update.
+82,2025-12-12T21:23:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+83,2025-12-20T12:13:44.135503,I have made the payment but not confirmed to order. Now what should i do
+84,2025-12-14T18:57:44.135503,I need help understanding my last invoice. Invoice INV-10084.
+85,2025-12-20T07:44:44.135503,Is my product shipping is done ?
+86,2025-12-18T12:41:44.135503,My delivery has not arrived yet. Order ORD-10086.
+87,2025-12-13T15:58:44.135503,I have made the payment but not confirmed to order. Now what should i do
+88,2025-12-14T23:17:44.135503,I have made the payment but not confirmed to order. Now what should i do
+89,2025-12-14T01:52:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+90,2025-12-20T12:20:44.135503,I have not received my refund for order ORD-10090.
+91,2025-12-10T17:51:44.135503,Is my product shipping is done ?
+92,2025-12-15T12:46:44.135503,I have not received my refund for order ORD-10092.
+93,2025-12-16T06:45:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+94,2025-12-21T10:11:44.135503,I have not received my refund for order ORD-10094.
+95,2025-12-12T23:14:44.135503,My order ORD-10095 is delayed. This is very frustrating.
+96,2025-12-18T16:17:44.135503,Can you tell me the status of my order ORD-10096?
+97,2025-12-16T06:05:44.135503,My delivery has not arrived yet. Order ORD-10097.
+98,2025-12-19T08:39:44.135503,I have made the payment but not confirmed to order. Now what should i do
+99,2025-12-13T23:55:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+100,2025-12-18T22:28:44.135503,Just checking in for an update on my order ORD-10100. Thanks.
+101,2025-12-21T05:40:44.135503,I have not received my refund for order ORD-10101.
+102,2025-12-14T03:14:44.135503,I have made the payment but not confirmed to order. Now what should i do
+103,2025-12-10T13:06:44.135503,Just checking in for an update on my order ORD-10103. Thanks.
+104,2025-12-12T21:51:44.135503,I requested a refund 10 days ago. Order ID ORD-10104. Please update.
+105,2025-12-19T04:46:44.135503,Just checking in for an update on my order ORD-10105. Thanks.
+106,2025-12-16T20:44:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+107,2025-12-11T20:20:44.135503,Can you tell me the status of my order ORD-10107?
+108,2025-12-13T00:07:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+109,2025-12-10T15:50:44.135503,I need help understanding my last invoice. Invoice INV-10109.
+110,2025-12-15T11:34:44.135503,My delivery has not arrived yet. Order ORD-10110.
+111,2025-12-13T16:31:44.135503,Can you tell me the status of my order ORD-10111?
+112,2025-12-15T21:49:44.135503,Is my product shipping is done ?
+113,2025-12-17T12:35:44.135503,I have made the payment but not confirmed to order. Now what should i do
+114,2025-12-12T00:48:44.135503,I was charged incorrectly for order ORD-10114. Please fix this.
+115,2025-12-19T05:08:44.135503,My order ORD-10115 is delayed. This is very frustrating.
+116,2025-12-12T07:03:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+117,2025-12-15T20:24:44.135503,My delivery has not arrived yet. Order ORD-10117.
+118,2025-12-14T01:18:44.135503,I have not received my refund for order ORD-10118.
+119,2025-12-16T10:57:44.135503,I requested a refund 0 days ago. Order ID ORD-10119. Please update.
+120,2025-12-17T00:16:44.135503,I was charged incorrectly for order ORD-10120. Please fix this.
+121,2025-12-12T21:59:44.135503,I have not received my refund for order ORD-10121.
+122,2025-12-12T19:54:44.135503,Just checking in for an update on my order ORD-10122. Thanks.
+123,2025-12-19T02:57:44.135503,Why is this taking so long? Order number ORD-10123.
+124,2025-12-17T01:46:44.135503,I need help understanding my last invoice. Invoice INV-10124.
+125,2025-12-16T08:00:44.135503,Can you tell me the status of my order ORD-10125?
+126,2025-12-15T18:06:44.135503,I have made the payment but not confirmed to order. Now what should i do
+127,2025-12-12T05:02:44.135503,I requested a refund 9 days ago. Order ID ORD-10127. Please update.
+128,2025-12-11T02:35:44.135503,Is my product shipping is done ?
+129,2025-12-17T18:42:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+130,2025-12-17T00:11:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+131,2025-12-18T23:47:44.135503,Is my product shipping is done ?
+132,2025-12-11T22:36:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+133,2025-12-18T03:45:44.135503,I requested a refund 10 days ago. Order ID ORD-10133. Please update.
+134,2025-12-21T00:28:44.135503,Just checking in for an update on my order ORD-10134. Thanks.
+135,2025-12-12T01:10:44.135503,I need help understanding my last invoice. Invoice INV-10135.
+136,2025-12-12T21:47:44.135503,My delivery has not arrived yet. Order ORD-10136.
+137,2025-12-18T07:19:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+138,2025-12-13T10:14:44.135503,My delivery has not arrived yet. Order ORD-10138.
+139,2025-12-20T23:50:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+140,2025-12-12T12:22:44.135503,I have made the payment but not confirmed to order. Now what should i do
+141,2025-12-10T14:23:44.135503,Please cancel my subscription immediately. Account ID ACC-10141.
+142,2025-12-15T16:09:44.135503,Just checking in for an update on my order ORD-10142. Thanks.
+143,2025-12-17T14:41:44.135503,Is my product shipping is done ?
+144,2025-12-13T23:44:44.135503,Please cancel my subscription immediately. Account ID ACC-10144.
+145,2025-12-18T08:24:44.135503,I need help understanding my last invoice. Invoice INV-10145.
+146,2025-12-10T18:43:44.135503,I have made the payment but not confirmed to order. Now what should i do
+147,2025-12-11T12:16:44.135503,Please cancel my subscription immediately. Account ID ACC-10147.
+148,2025-12-17T15:16:44.135503,I have made the payment but not confirmed to order. Now what should i do
+149,2025-12-15T10:12:44.135503,I need help understanding my last invoice. Invoice INV-10149.
+150,2025-12-12T03:46:44.135503,I requested a refund 9 days ago. Order ID ORD-10150. Please update.
+151,2025-12-10T13:44:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+152,2025-12-12T10:17:44.135503,I need help understanding my last invoice. Invoice INV-10152.
+153,2025-12-15T03:52:44.135503,Is my product shipping is done ?
+154,2025-12-10T16:02:44.135503,I have made the payment but not confirmed to order. Now what should i do
+155,2025-12-17T13:19:44.135503,I have not received my refund for order ORD-10155.
+156,2025-12-15T11:39:44.135503,I requested a refund 4 days ago. Order ID ORD-10156. Please update.
+157,2025-12-18T02:56:44.135503,I need help understanding my last invoice. Invoice INV-10157.
+158,2025-12-16T04:33:44.135503,I requested a refund 6 days ago. Order ID ORD-10158. Please update.
+159,2025-12-14T23:12:44.135503,I have not received my refund for order ORD-10159.
+160,2025-12-16T05:00:44.135503,My order ORD-10160 is delayed. This is very frustrating.
+161,2025-12-12T00:42:44.135503,Is my product shipping is done ?
+162,2025-12-20T12:43:44.135503,Is my product shipping is done ?
+163,2025-12-12T21:52:44.135503,I have not received my refund for order ORD-10163.
+164,2025-12-13T10:43:44.135503,Why is this taking so long? Order number ORD-10164.
+165,2025-12-16T09:47:44.135503,My delivery has not arrived yet. Order ORD-10165.
+166,2025-12-16T10:28:44.135503,Is my product shipping is done ?
+167,2025-12-15T19:45:44.135503,Please cancel my subscription immediately. Account ID ACC-10167.
+168,2025-12-17T15:21:44.135503,I have made the payment but not confirmed to order. Now what should i do
+169,2025-12-20T00:24:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+170,2025-12-12T20:22:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+171,2025-12-19T13:47:44.135503,My delivery has not arrived yet. Order ORD-10171.
+172,2025-12-14T06:47:44.135503,I need help understanding my last invoice. Invoice INV-10172.
+173,2025-12-18T19:51:44.135503,I have not received my refund for order ORD-10173.
+174,2025-12-18T19:34:44.135503,Is my product shipping is done ?
+175,2025-12-17T11:15:44.135503,Just checking in for an update on my order ORD-10175. Thanks.
+176,2025-12-10T19:20:44.135503,I was charged incorrectly for order ORD-10176. Please fix this.
+177,2025-12-16T00:52:44.135503,Can you tell me the status of my order ORD-10177?
+178,2025-12-16T23:18:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+179,2025-12-18T04:51:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+180,2025-12-19T19:38:44.135503,Can you tell me the status of my order ORD-10180?
+181,2025-12-10T17:12:44.135503,I have made the payment but not confirmed to order. Now what should i do
+182,2025-12-19T02:11:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+183,2025-12-20T23:44:44.135503,Just checking in for an update on my order ORD-10183. Thanks.
+184,2025-12-18T01:14:44.135503,I was charged incorrectly for order ORD-10184. Please fix this.
+185,2025-12-12T13:25:44.135503,I have made the payment but not confirmed to order. Now what should i do
+186,2025-12-10T19:13:44.135503,Just checking in for an update on my order ORD-10186. Thanks.
+187,2025-12-16T16:03:44.135503,I have not received my refund for order ORD-10187.
+188,2025-12-10T13:32:44.135503,Just checking in for an update on my order ORD-10188. Thanks.
+189,2025-12-16T16:16:44.135503,I need help understanding my last invoice. Invoice INV-10189.
+190,2025-12-17T06:08:44.135503,I need help understanding my last invoice. Invoice INV-10190.
+191,2025-12-16T08:26:44.135503,I need help understanding my last invoice. Invoice INV-10191.
+192,2025-12-18T20:24:44.135503,I was charged incorrectly for order ORD-10192. Please fix this.
+193,2025-12-14T15:42:44.135503,I was charged incorrectly for order ORD-10193. Please fix this.
+194,2025-12-15T06:05:44.135503,I have made the payment but not confirmed to order. Now what should i do
+195,2025-12-11T12:39:44.135503,I have not received my refund for order ORD-10195.
+196,2025-12-21T07:46:44.135503,I need help understanding my last invoice. Invoice INV-10196.
+197,2025-12-16T15:58:44.135503,I have not received my refund for order ORD-10197.
+198,2025-12-17T03:59:44.135503,My delivery has not arrived yet. Order ORD-10198.
+199,2025-12-16T06:50:44.135503,I have made the payment but not confirmed to order. Now what should i do
+200,2025-12-21T00:57:44.135503,I requested a refund 3 days ago. Order ID ORD-10200. Please update.
+201,2025-12-12T19:58:44.135503,I requested a refund 4 days ago. Order ID ORD-10201. Please update.
+202,2025-12-11T06:05:44.135503,I have made the payment but not confirmed to order. Now what should i do
+203,2025-12-20T17:10:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+204,2025-12-13T14:35:44.135503,I need help understanding my last invoice. Invoice INV-10204.
+205,2025-12-14T05:55:44.135503,I was charged incorrectly for order ORD-10205. Please fix this.
+206,2025-12-13T07:52:44.135503,My order ORD-10206 is delayed. This is very frustrating.
+207,2025-12-15T02:52:44.135503,I have made the payment but not confirmed to order. Now what should i do
+208,2025-12-15T04:34:44.135503,Why is this taking so long? Order number ORD-10208.
+209,2025-12-11T17:09:44.135503,My order ORD-10209 is delayed. This is very frustrating.
+210,2025-12-12T05:52:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+211,2025-12-16T17:34:44.135503,My delivery has not arrived yet. Order ORD-10211.
+212,2025-12-14T22:27:44.135503,I have made the payment but not confirmed to order. Now what should i do
+213,2025-12-13T00:54:44.135503,Is my product shipping is done ?
+214,2025-12-12T16:49:44.135503,Why is this taking so long? Order number ORD-10214.
+215,2025-12-13T10:18:44.135503,I was charged incorrectly for order ORD-10215. Please fix this.
+216,2025-12-12T23:24:44.135503,Can you tell me the status of my order ORD-10216?
+217,2025-12-21T11:54:44.135503,Please cancel my subscription immediately. Account ID ACC-10217.
+218,2025-12-18T23:34:44.135503,I have made the payment but not confirmed to order. Now what should i do
+219,2025-12-20T00:03:44.135503,I have made the payment but not confirmed to order. Now what should i do
+220,2025-12-16T02:40:44.135503,I have made the payment but not confirmed to order. Now what should i do
+221,2025-12-18T05:24:44.135503,I have made the payment but not confirmed to order. Now what should i do
+222,2025-12-15T15:07:44.135503,I need help understanding my last invoice. Invoice INV-10222.
+223,2025-12-19T16:14:44.135503,Please cancel my subscription immediately. Account ID ACC-10223.
+224,2025-12-11T02:35:44.135503,Why is this taking so long? Order number ORD-10224.
+225,2025-12-19T08:41:44.135503,I requested a refund 7 days ago. Order ID ORD-10225. Please update.
+226,2025-12-19T22:37:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+227,2025-12-16T13:52:44.135503,My order ORD-10227 is delayed. This is very frustrating.
+228,2025-12-14T04:20:44.135503,Is my product shipping is done ?
+229,2025-12-20T05:00:44.135503,Can you tell me the status of my order ORD-10229?
+230,2025-12-12T21:33:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+231,2025-12-17T04:29:44.135503,Can you tell me the status of my order ORD-10231?
+232,2025-12-12T02:03:44.135503,I need help understanding my last invoice. Invoice INV-10232.
+233,2025-12-12T08:19:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+234,2025-12-18T08:11:44.135503,I requested a refund 7 days ago. Order ID ORD-10234. Please update.
+235,2025-12-11T04:56:44.135503,Why is this taking so long? Order number ORD-10235.
+236,2025-12-16T18:45:44.135503,My order ORD-10236 is delayed. This is very frustrating.
+237,2025-12-11T06:26:44.135503,My delivery has not arrived yet. Order ORD-10237.
+238,2025-12-18T05:32:44.135503,I have not received my refund for order ORD-10238.
+239,2025-12-20T20:17:44.135503,Can you tell me the status of my order ORD-10239?
+240,2025-12-21T07:36:44.135503,Just checking in for an update on my order ORD-10240. Thanks.
+241,2025-12-12T12:36:44.135503,Can you tell me the status of my order ORD-10241?
+242,2025-12-10T19:40:44.135503,Is my product shipping is done ?
+243,2025-12-14T13:00:44.135503,Is my product shipping is done ?
+244,2025-12-20T02:50:44.135503,Just checking in for an update on my order ORD-10244. Thanks.
+245,2025-12-10T22:45:44.135503,Please cancel my subscription immediately. Account ID ACC-10245.
+246,2025-12-11T04:09:44.135503,Why is this taking so long? Order number ORD-10246.
+247,2025-12-11T21:43:44.135503,Please cancel my subscription immediately. Account ID ACC-10247.
+248,2025-12-20T04:26:44.135503,I have not received my refund for order ORD-10248.
+249,2025-12-16T07:00:44.135503,Can you tell me the status of my order ORD-10249?
+250,2025-12-18T14:51:44.135503,I have made the payment but not confirmed to order. Now what should i do
+251,2025-12-16T18:26:44.135503,Is my product shipping is done ?
+252,2025-12-13T17:36:44.135503,I need help understanding my last invoice. Invoice INV-10252.
+253,2025-12-12T15:23:44.135503,I have not received my refund for order ORD-10253.
+254,2025-12-13T00:12:44.135503,I have made the payment but not confirmed to order. Now what should i do
+255,2025-12-13T22:55:44.135503,I requested a refund 0 days ago. Order ID ORD-10255. Please update.
+256,2025-12-20T00:06:44.135503,Please cancel my subscription immediately. Account ID ACC-10256.
+257,2025-12-15T11:37:44.135503,My delivery has not arrived yet. Order ORD-10257.
+258,2025-12-21T06:35:44.135503,Can you tell me the status of my order ORD-10258?
+259,2025-12-11T11:38:44.135503,Just checking in for an update on my order ORD-10259. Thanks.
+260,2025-12-16T13:33:44.135503,Please cancel my subscription immediately. Account ID ACC-10260.
+261,2025-12-17T14:11:44.135503,I need help understanding my last invoice. Invoice INV-10261.
+262,2025-12-11T08:08:44.135503,I requested a refund 2 days ago. Order ID ORD-10262. Please update.
+263,2025-12-17T13:07:44.135503,Why is this taking so long? Order number ORD-10263.
+264,2025-12-18T07:30:44.135503,I need help understanding my last invoice. Invoice INV-10264.
+265,2025-12-15T11:22:44.135503,I have not received my refund for order ORD-10265.
+266,2025-12-15T21:55:44.135503,I requested a refund 4 days ago. Order ID ORD-10266. Please update.
+267,2025-12-20T12:29:44.135503,Please cancel my subscription immediately. Account ID ACC-10267.
+268,2025-12-14T22:44:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+269,2025-12-15T06:00:44.135503,I need help understanding my last invoice. Invoice INV-10269.
+270,2025-12-15T01:24:44.135503,My delivery has not arrived yet. Order ORD-10270.
+271,2025-12-13T07:14:44.135503,Is my product shipping is done ?
+272,2025-12-20T21:20:44.135503,Can you tell me the status of my order ORD-10272?
+273,2025-12-19T10:45:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+274,2025-12-10T22:26:44.135503,My order ORD-10274 is delayed. This is very frustrating.
+275,2025-12-10T18:58:44.135503,Just checking in for an update on my order ORD-10275. Thanks.
+276,2025-12-12T01:53:44.135503,I was charged incorrectly for order ORD-10276. Please fix this.
+277,2025-12-10T19:25:44.135503,Just checking in for an update on my order ORD-10277. Thanks.
+278,2025-12-20T11:22:44.135503,Please cancel my subscription immediately. Account ID ACC-10278.
+279,2025-12-16T22:54:44.135503,Please cancel my subscription immediately. Account ID ACC-10279.
+280,2025-12-16T15:25:44.135503,I need help understanding my last invoice. Invoice INV-10280.
+281,2025-12-20T20:33:44.135503,Please cancel my subscription immediately. Account ID ACC-10281.
+282,2025-12-12T13:53:44.135503,Is my product shipping is done ?
+283,2025-12-17T19:42:44.135503,I have made the payment but not confirmed to order. Now what should i do
+284,2025-12-15T17:44:44.135503,I have not received my refund for order ORD-10284.
+285,2025-12-15T23:35:44.135503,Just checking in for an update on my order ORD-10285. Thanks.
+286,2025-12-14T20:48:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+287,2025-12-20T04:17:44.135503,My delivery has not arrived yet. Order ORD-10287.
+288,2025-12-13T18:18:44.135503,Please cancel my subscription immediately. Account ID ACC-10288.
+289,2025-12-19T21:40:44.135503,My delivery has not arrived yet. Order ORD-10289.
+290,2025-12-15T08:08:44.135503,Just checking in for an update on my order ORD-10290. Thanks.
+291,2025-12-10T16:01:44.135503,Why is this taking so long? Order number ORD-10291.
+292,2025-12-18T12:10:44.135503,I have made the payment but not confirmed to order. Now what should i do
+293,2025-12-10T23:35:44.135503,My delivery has not arrived yet. Order ORD-10293.
+294,2025-12-19T04:25:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+295,2025-12-13T08:07:44.135503,I need help understanding my last invoice. Invoice INV-10295.
+296,2025-12-10T19:14:44.135503,My delivery has not arrived yet. Order ORD-10296.
+297,2025-12-21T08:48:44.135503,I have made the payment but not confirmed to order. Now what should i do
+298,2025-12-13T01:30:44.135503,Can you tell me the status of my order ORD-10298?
+299,2025-12-19T20:08:44.135503,I was charged incorrectly for order ORD-10299. Please fix this.
+300,2025-12-11T16:09:44.135503,Can you tell me the status of my order ORD-10300?
+301,2025-12-15T13:00:44.135503,I have made the payment but not confirmed to order. Now what should i do
+302,2025-12-12T12:23:44.135503,Just checking in for an update on my order ORD-10302. Thanks.
+303,2025-12-14T21:30:44.135503,Just checking in for an update on my order ORD-10303. Thanks.
+304,2025-12-13T05:41:44.135503,I have made the payment but not confirmed to order. Now what should i do
+305,2025-12-18T18:07:44.135503,My order ORD-10305 is delayed. This is very frustrating.
+306,2025-12-17T20:11:44.135503,Is my product shipping is done ?
+307,2025-12-15T22:42:44.135503,Please cancel my subscription immediately. Account ID ACC-10307.
+308,2025-12-16T12:41:44.135503,I was charged incorrectly for order ORD-10308. Please fix this.
+309,2025-12-15T17:24:44.135503,I have made the payment but not confirmed to order. Now what should i do
+310,2025-12-17T12:00:44.135503,I have made the payment but not confirmed to order. Now what should i do
+311,2025-12-20T06:18:44.135503,Can you tell me the status of my order ORD-10311?
+312,2025-12-18T04:27:44.135503,My delivery has not arrived yet. Order ORD-10312.
+313,2025-12-20T07:32:44.135503,My order ORD-10313 is delayed. This is very frustrating.
+314,2025-12-11T21:46:44.135503,Can you tell me the status of my order ORD-10314?
+315,2025-12-11T23:50:44.135503,Just checking in for an update on my order ORD-10315. Thanks.
+316,2025-12-16T11:35:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+317,2025-12-16T21:06:44.135503,Is my product shipping is done ?
+318,2025-12-18T21:08:44.135503,I have not received my refund for order ORD-10318.
+319,2025-12-16T11:28:44.135503,Just checking in for an update on my order ORD-10319. Thanks.
+320,2025-12-13T14:27:44.135503,I requested a refund 1 days ago. Order ID ORD-10320. Please update.
+321,2025-12-20T15:37:44.135503,Why is this taking so long? Order number ORD-10321.
+322,2025-12-13T18:52:44.135503,My order ORD-10322 is delayed. This is very frustrating.
+323,2025-12-14T19:53:44.135503,Is my product shipping is done ?
+324,2025-12-12T12:29:44.135503,Please cancel my subscription immediately. Account ID ACC-10324.
+325,2025-12-18T14:34:44.135503,I have made the payment but not confirmed to order. Now what should i do
+326,2025-12-13T00:44:44.135503,Just checking in for an update on my order ORD-10326. Thanks.
+327,2025-12-16T08:40:44.135503,I have made the payment but not confirmed to order. Now what should i do
+328,2025-12-21T09:58:44.135503,Why is this taking so long? Order number ORD-10328.
+329,2025-12-17T03:24:44.135503,I have not received my refund for order ORD-10329.
+330,2025-12-12T14:10:44.135503,My order ORD-10330 is delayed. This is very frustrating.
+331,2025-12-11T02:38:44.135503,I have not received my refund for order ORD-10331.
+332,2025-12-10T19:04:44.135503,My order ORD-10332 is delayed. This is very frustrating.
+333,2025-12-20T15:14:44.135503,I need help understanding my last invoice. Invoice INV-10333.
+334,2025-12-10T19:13:44.135503,My order ORD-10334 is delayed. This is very frustrating.
+335,2025-12-20T04:02:44.135503,Why is this taking so long? Order number ORD-10335.
+336,2025-12-15T23:12:44.135503,I need help understanding my last invoice. Invoice INV-10336.
+337,2025-12-11T06:10:44.135503,My order ORD-10337 is delayed. This is very frustrating.
+338,2025-12-10T23:41:44.135503,Why is this taking so long? Order number ORD-10338.
+339,2025-12-17T23:16:44.135503,I requested a refund 1 days ago. Order ID ORD-10339. Please update.
+340,2025-12-15T11:25:44.135503,Can you tell me the status of my order ORD-10340?
+341,2025-12-14T05:20:44.135503,Just checking in for an update on my order ORD-10341. Thanks.
+342,2025-12-14T16:10:44.135503,I have made the payment but not confirmed to order. Now what should i do
+343,2025-12-18T01:07:44.135503,I requested a refund 3 days ago. Order ID ORD-10343. Please update.
+344,2025-12-13T04:00:44.135503,I have made the payment but not confirmed to order. Now what should i do
+345,2025-12-16T11:58:44.135503,Why is this taking so long? Order number ORD-10345.
+346,2025-12-15T04:22:44.135503,I have made the payment but not confirmed to order. Now what should i do
+347,2025-12-19T16:34:44.135503,Just checking in for an update on my order ORD-10347. Thanks.
+348,2025-12-14T22:02:44.135503,I requested a refund 5 days ago. Order ID ORD-10348. Please update.
+349,2025-12-11T16:17:44.135503,I was charged incorrectly for order ORD-10349. Please fix this.
+350,2025-12-12T08:26:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+351,2025-12-11T14:08:44.135503,Can you tell me the status of my order ORD-10351?
+352,2025-12-11T00:34:44.135503,I have made the payment but not confirmed to order. Now what should i do
+353,2025-12-16T08:12:44.135503,My delivery has not arrived yet. Order ORD-10353.
+354,2025-12-11T14:59:44.135503,My delivery has not arrived yet. Order ORD-10354.
+355,2025-12-21T07:50:44.135503,Can you tell me the status of my order ORD-10355?
+356,2025-12-20T07:56:44.135503,Is my product shipping is done ?
+357,2025-12-10T14:44:44.135503,My delivery has not arrived yet. Order ORD-10357.
+358,2025-12-20T07:35:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+359,2025-12-19T22:37:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+360,2025-12-14T10:16:44.135503,Why is this taking so long? Order number ORD-10360.
+361,2025-12-12T13:11:44.135503,Just checking in for an update on my order ORD-10361. Thanks.
+362,2025-12-17T03:25:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+363,2025-12-16T14:01:44.135503,I need help understanding my last invoice. Invoice INV-10363.
+364,2025-12-19T02:55:44.135503,I have not received my refund for order ORD-10364.
+365,2025-12-17T15:25:44.135503,I have not received my refund for order ORD-10365.
+366,2025-12-18T10:36:44.135503,My delivery has not arrived yet. Order ORD-10366.
+367,2025-12-17T20:42:44.135503,My delivery has not arrived yet. Order ORD-10367.
+368,2025-12-19T16:51:44.135503,Why is this taking so long? Order number ORD-10368.
+369,2025-12-13T13:35:44.135503,Is my product shipping is done ?
+370,2025-12-15T00:41:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+371,2025-12-11T03:46:44.135503,I have made the payment but not confirmed to order. Now what should i do
+372,2025-12-20T16:49:44.135503,I have not received my refund for order ORD-10372.
+373,2025-12-17T04:44:44.135503,Just checking in for an update on my order ORD-10373. Thanks.
+374,2025-12-20T09:27:44.135503,I have made the payment but not confirmed to order. Now what should i do
+375,2025-12-13T01:02:44.135503,Is my product shipping is done ?
+376,2025-12-16T11:56:44.135503,I have made the payment but not confirmed to order. Now what should i do
+377,2025-12-17T21:19:44.135503,I have made the payment but not confirmed to order. Now what should i do
+378,2025-12-16T19:55:44.135503,Is my product shipping is done ?
+379,2025-12-15T18:20:44.135503,I have not received my refund for order ORD-10379.
+380,2025-12-17T23:00:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+381,2025-12-11T08:05:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+382,2025-12-19T06:18:44.135503,My order ORD-10382 is delayed. This is very frustrating.
+383,2025-12-17T04:30:44.135503,Please cancel my subscription immediately. Account ID ACC-10383.
+384,2025-12-17T09:43:44.135503,I have not received my refund for order ORD-10384.
+385,2025-12-14T00:42:44.135503,My delivery has not arrived yet. Order ORD-10385.
+386,2025-12-12T07:41:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+387,2025-12-13T09:08:44.135503,I have not received my refund for order ORD-10387.
+388,2025-12-12T23:48:44.135503,My delivery has not arrived yet. Order ORD-10388.
+389,2025-12-20T05:43:44.135503,I have made the payment but not confirmed to order. Now what should i do
+390,2025-12-20T19:30:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+391,2025-12-10T15:56:44.135503,I have made the payment but not confirmed to order. Now what should i do
+392,2025-12-14T14:21:44.135503,I was charged incorrectly for order ORD-10392. Please fix this.
+393,2025-12-13T08:44:44.135503,I need help understanding my last invoice. Invoice INV-10393.
+394,2025-12-19T15:49:44.135503,Is my product shipping is done ?
+395,2025-12-11T17:47:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+396,2025-12-20T18:33:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+397,2025-12-20T00:32:44.135503,Can you tell me the status of my order ORD-10397?
+398,2025-12-15T13:40:44.135503,I have made the payment but not confirmed to order. Now what should i do
+399,2025-12-13T10:33:44.135503,I have not received my refund for order ORD-10399.
+400,2025-12-21T11:10:44.135503,My delivery has not arrived yet. Order ORD-10400.
+401,2025-12-12T04:24:44.135503,My order ORD-10401 is delayed. This is very frustrating.
+402,2025-12-20T17:20:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+403,2025-12-13T06:53:44.135503,Can you tell me the status of my order ORD-10403?
+404,2025-12-18T02:24:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+405,2025-12-19T03:42:44.135503,Why is this taking so long? Order number ORD-10405.
+406,2025-12-14T08:09:44.135503,I have made the payment but not confirmed to order. Now what should i do
+407,2025-12-10T20:05:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+408,2025-12-13T16:36:44.135503,I was charged incorrectly for order ORD-10408. Please fix this.
+409,2025-12-21T00:57:44.135503,Why is this taking so long? Order number ORD-10409.
+410,2025-12-18T09:28:44.135503,I was charged incorrectly for order ORD-10410. Please fix this.
+411,2025-12-14T07:58:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+412,2025-12-17T13:04:44.135503,My delivery has not arrived yet. Order ORD-10412.
+413,2025-12-11T11:02:44.135503,I have made the payment but not confirmed to order. Now what should i do
+414,2025-12-16T22:52:44.135503,My delivery has not arrived yet. Order ORD-10414.
+415,2025-12-17T22:57:44.135503,I need help understanding my last invoice. Invoice INV-10415.
+416,2025-12-18T23:48:44.135503,Please cancel my subscription immediately. Account ID ACC-10416.
+417,2025-12-19T07:47:44.135503,Just checking in for an update on my order ORD-10417. Thanks.
+418,2025-12-11T21:47:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+419,2025-12-18T05:29:44.135503,Please cancel my subscription immediately. Account ID ACC-10419.
+420,2025-12-14T06:40:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+421,2025-12-16T02:54:44.135503,I was charged incorrectly for order ORD-10421. Please fix this.
+422,2025-12-18T01:19:44.135503,I have made the payment but not confirmed to order. Now what should i do
+423,2025-12-15T05:41:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+424,2025-12-15T23:01:44.135503,Can you tell me the status of my order ORD-10424?
+425,2025-12-15T13:06:44.135503,My order ORD-10425 is delayed. This is very frustrating.
+426,2025-12-21T12:25:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+427,2025-12-11T19:03:44.135503,Why is this taking so long? Order number ORD-10427.
+428,2025-12-14T04:37:44.135503,Just checking in for an update on my order ORD-10428. Thanks.
+429,2025-12-11T19:32:44.135503,My delivery has not arrived yet. Order ORD-10429.
+430,2025-12-12T21:35:44.135503,I was charged incorrectly for order ORD-10430. Please fix this.
+431,2025-12-21T02:11:44.135503,Can you tell me the status of my order ORD-10431?
+432,2025-12-13T06:52:44.135503,I was charged incorrectly for order ORD-10432. Please fix this.
+433,2025-12-11T11:12:44.135503,I have made the payment but not confirmed to order. Now what should i do
+434,2025-12-13T19:03:44.135503,Can you tell me the status of my order ORD-10434?
+435,2025-12-16T16:43:44.135503,I was charged incorrectly for order ORD-10435. Please fix this.
+436,2025-12-19T21:48:44.135503,My order ORD-10436 is delayed. This is very frustrating.
+437,2025-12-17T13:02:44.135503,Please cancel my subscription immediately. Account ID ACC-10437.
+438,2025-12-18T04:12:44.135503,My delivery has not arrived yet. Order ORD-10438.
+439,2025-12-15T01:15:44.135503,Is my product shipping is done ?
+440,2025-12-16T06:46:44.135503,I was charged incorrectly for order ORD-10440. Please fix this.
+441,2025-12-12T13:44:44.135503,I requested a refund 9 days ago. Order ID ORD-10441. Please update.
+442,2025-12-18T14:38:44.135503,Please cancel my subscription immediately. Account ID ACC-10442.
+443,2025-12-16T17:46:44.135503,Why is this taking so long? Order number ORD-10443.
+444,2025-12-20T21:06:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+445,2025-12-15T18:27:44.135503,I have made the payment but not confirmed to order. Now what should i do
+446,2025-12-17T06:52:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+447,2025-12-12T23:39:44.135503,Please cancel my subscription immediately. Account ID ACC-10447.
+448,2025-12-15T18:24:44.135503,My delivery has not arrived yet. Order ORD-10448.
+449,2025-12-18T14:44:44.135503,Can you tell me the status of my order ORD-10449?
+450,2025-12-18T11:23:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+451,2025-12-10T15:31:44.135503,Just checking in for an update on my order ORD-10451. Thanks.
+452,2025-12-13T16:34:44.135503,Please cancel my subscription immediately. Account ID ACC-10452.
+453,2025-12-17T23:30:44.135503,My delivery has not arrived yet. Order ORD-10453.
+454,2025-12-17T21:20:44.135503,I have not received my refund for order ORD-10454.
+455,2025-12-20T15:47:44.135503,I requested a refund 8 days ago. Order ID ORD-10455. Please update.
+456,2025-12-14T15:28:44.135503,Just checking in for an update on my order ORD-10456. Thanks.
+457,2025-12-13T17:13:44.135503,My order ORD-10457 is delayed. This is very frustrating.
+458,2025-12-21T05:24:44.135503,Can you tell me the status of my order ORD-10458?
+459,2025-12-10T16:12:44.135503,Can you tell me the status of my order ORD-10459?
+460,2025-12-13T03:35:44.135503,Can you tell me the status of my order ORD-10460?
+461,2025-12-17T03:54:44.135503,Can you tell me the status of my order ORD-10461?
+462,2025-12-20T00:09:44.135503,Can you tell me the status of my order ORD-10462?
+463,2025-12-15T14:46:44.135503,I requested a refund 1 days ago. Order ID ORD-10463. Please update.
+464,2025-12-15T03:54:44.135503,My delivery has not arrived yet. Order ORD-10464.
+465,2025-12-21T06:42:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+466,2025-12-15T03:37:44.135503,I need help understanding my last invoice. Invoice INV-10466.
+467,2025-12-13T13:39:44.135503,I was charged incorrectly for order ORD-10467. Please fix this.
+468,2025-12-19T01:43:44.135503,I have not received my refund for order ORD-10468.
+469,2025-12-19T21:50:44.135503,I requested a refund 7 days ago. Order ID ORD-10469. Please update.
+470,2025-12-19T08:02:44.135503,I was charged incorrectly for order ORD-10470. Please fix this.
+471,2025-12-12T07:43:44.135503,Please cancel my subscription immediately. Account ID ACC-10471.
+472,2025-12-19T11:17:44.135503,My delivery has not arrived yet. Order ORD-10472.
+473,2025-12-11T23:25:44.135503,I need help understanding my last invoice. Invoice INV-10473.
+474,2025-12-12T01:12:44.135503,Is my product shipping is done ?
+475,2025-12-15T22:12:44.135503,My delivery has not arrived yet. Order ORD-10475.
+476,2025-12-18T11:07:44.135503,I requested a refund 9 days ago. Order ID ORD-10476. Please update.
+477,2025-12-21T06:38:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+478,2025-12-18T11:41:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+479,2025-12-18T16:01:44.135503,I requested a refund 1 days ago. Order ID ORD-10479. Please update.
+480,2025-12-15T20:10:44.135503,I need help understanding my last invoice. Invoice INV-10480.
+481,2025-12-14T06:40:44.135503,Just checking in for an update on my order ORD-10481. Thanks.
+482,2025-12-14T07:29:44.135503,Just checking in for an update on my order ORD-10482. Thanks.
+483,2025-12-16T13:47:44.135503,Just checking in for an update on my order ORD-10483. Thanks.
+484,2025-12-20T12:55:44.135503,My delivery has not arrived yet. Order ORD-10484.
+485,2025-12-14T06:32:44.135503,I have made the payment but not confirmed to order. Now what should i do
+486,2025-12-12T11:50:44.135503,Is my product shipping is done ?
+487,2025-12-17T00:43:44.135503,I need help understanding my last invoice. Invoice INV-10487.
+488,2025-12-19T00:13:44.135503,I requested a refund 2 days ago. Order ID ORD-10488. Please update.
+489,2025-12-12T17:32:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+490,2025-12-12T08:59:44.135503,I requested a refund 3 days ago. Order ID ORD-10490. Please update.
+491,2025-12-19T22:38:44.135503,Just checking in for an update on my order ORD-10491. Thanks.
+492,2025-12-14T14:07:44.135503,Just checking in for an update on my order ORD-10492. Thanks.
+493,2025-12-10T13:03:44.135503,I need help understanding my last invoice. Invoice INV-10493.
+494,2025-12-16T06:42:44.135503,Can you tell me the status of my order ORD-10494?
+495,2025-12-18T23:51:44.135503,My delivery has not arrived yet. Order ORD-10495.
+496,2025-12-18T19:10:44.135503,I have not received my refund for order ORD-10496.
+497,2025-12-11T11:14:44.135503,Just checking in for an update on my order ORD-10497. Thanks.
+498,2025-12-13T17:18:44.135503,I have made the payment but not confirmed to order. Now what should i do
+499,2025-12-16T00:37:44.135503,I have not received my refund for order ORD-10499.
+500,2025-12-11T03:27:44.135503,I was charged incorrectly for order ORD-10500. Please fix this.
+501,2025-12-18T00:49:44.135503,I have made the payment but not confirmed to order. Now what should i do
+502,2025-12-19T14:30:44.135503,I need help understanding my last invoice. Invoice INV-10502.
+503,2025-12-12T02:31:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+504,2025-12-13T00:02:44.135503,I have not received my refund for order ORD-10504.
+505,2025-12-20T10:40:44.135503,I was charged incorrectly for order ORD-10505. Please fix this.
+506,2025-12-12T18:02:44.135503,Why is this taking so long? Order number ORD-10506.
+507,2025-12-15T02:54:44.135503,I have not received my refund for order ORD-10507.
+508,2025-12-11T12:22:44.135503,Please cancel my subscription immediately. Account ID ACC-10508.
+509,2025-12-13T09:12:44.135503,I have not received my refund for order ORD-10509.
+510,2025-12-13T14:22:44.135503,I have not received my refund for order ORD-10510.
+511,2025-12-21T07:55:44.135503,I have made the payment but not confirmed to order. Now what should i do
+512,2025-12-17T18:44:44.135503,Please cancel my subscription immediately. Account ID ACC-10512.
+513,2025-12-13T07:34:44.135503,I was charged incorrectly for order ORD-10513. Please fix this.
+514,2025-12-12T15:43:44.135503,I requested a refund 2 days ago. Order ID ORD-10514. Please update.
+515,2025-12-16T09:10:44.135503,I was charged incorrectly for order ORD-10515. Please fix this.
+516,2025-12-12T17:58:44.135503,Can you tell me the status of my order ORD-10516?
+517,2025-12-15T09:44:44.135503,Is my product shipping is done ?
+518,2025-12-13T02:46:44.135503,My delivery has not arrived yet. Order ORD-10518.
+519,2025-12-10T14:53:44.135503,I have not received my refund for order ORD-10519.
+520,2025-12-12T13:43:44.135503,I have not received my refund for order ORD-10520.
+521,2025-12-13T21:37:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+522,2025-12-14T17:03:44.135503,My delivery has not arrived yet. Order ORD-10522.
+523,2025-12-10T22:18:44.135503,I was charged incorrectly for order ORD-10523. Please fix this.
+524,2025-12-21T02:05:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+525,2025-12-12T02:34:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+526,2025-12-16T06:09:44.135503,Can you tell me the status of my order ORD-10526?
+527,2025-12-10T14:09:44.135503,I need help understanding my last invoice. Invoice INV-10527.
+528,2025-12-12T07:05:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+529,2025-12-20T00:43:44.135503,My delivery has not arrived yet. Order ORD-10529.
+530,2025-12-12T06:42:44.135503,I was charged incorrectly for order ORD-10530. Please fix this.
+531,2025-12-12T10:16:44.135503,I was charged incorrectly for order ORD-10531. Please fix this.
+532,2025-12-13T00:31:44.135503,I have made the payment but not confirmed to order. Now what should i do
+533,2025-12-21T12:04:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+534,2025-12-21T06:33:44.135503,I need help understanding my last invoice. Invoice INV-10534.
+535,2025-12-11T22:08:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+536,2025-12-15T19:01:44.135503,Can you tell me the status of my order ORD-10536?
+537,2025-12-20T20:51:44.135503,I requested a refund 6 days ago. Order ID ORD-10537. Please update.
+538,2025-12-18T10:09:44.135503,My delivery has not arrived yet. Order ORD-10538.
+539,2025-12-14T16:02:44.135503,I need help understanding my last invoice. Invoice INV-10539.
+540,2025-12-19T22:09:44.135503,Just checking in for an update on my order ORD-10540. Thanks.
+541,2025-12-20T13:59:44.135503,I requested a refund 3 days ago. Order ID ORD-10541. Please update.
+542,2025-12-13T23:44:44.135503,My order ORD-10542 is delayed. This is very frustrating.
+543,2025-12-20T09:41:44.135503,I requested a refund 1 days ago. Order ID ORD-10543. Please update.
+544,2025-12-20T02:17:44.135503,Can you tell me the status of my order ORD-10544?
+545,2025-12-15T04:01:44.135503,Why is this taking so long? Order number ORD-10545.
+546,2025-12-10T19:08:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+547,2025-12-11T16:53:44.135503,My order ORD-10547 is delayed. This is very frustrating.
+548,2025-12-10T20:16:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+549,2025-12-15T19:57:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+550,2025-12-20T02:45:44.135503,I have made the payment but not confirmed to order. Now what should i do
+551,2025-12-19T14:37:44.135503,Just checking in for an update on my order ORD-10551. Thanks.
+552,2025-12-19T13:25:44.135503,Is my product shipping is done ?
+553,2025-12-18T04:18:44.135503,I have not received my refund for order ORD-10553.
+554,2025-12-12T23:03:44.135503,I requested a refund 10 days ago. Order ID ORD-10554. Please update.
+555,2025-12-16T10:02:44.135503,My order ORD-10555 is delayed. This is very frustrating.
+556,2025-12-20T14:05:44.135503,Can you tell me the status of my order ORD-10556?
+557,2025-12-13T16:24:44.135503,I have made the payment but not confirmed to order. Now what should i do
+558,2025-12-16T16:36:44.135503,My delivery has not arrived yet. Order ORD-10558.
+559,2025-12-13T14:32:44.135503,I was charged incorrectly for order ORD-10559. Please fix this.
+560,2025-12-14T07:08:44.135503,Please cancel my subscription immediately. Account ID ACC-10560.
+561,2025-12-16T11:05:44.135503,I was charged incorrectly for order ORD-10561. Please fix this.
+562,2025-12-12T14:27:44.135503,I have not received my refund for order ORD-10562.
+563,2025-12-17T04:05:44.135503,Is my product shipping is done ?
+564,2025-12-16T20:53:44.135503,My order ORD-10564 is delayed. This is very frustrating.
+565,2025-12-17T19:38:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+566,2025-12-15T03:05:44.135503,I have made the payment but not confirmed to order. Now what should i do
+567,2025-12-15T16:22:44.135503,I was charged incorrectly for order ORD-10567. Please fix this.
+568,2025-12-18T14:56:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+569,2025-12-19T10:01:44.135503,Can you tell me the status of my order ORD-10569?
+570,2025-12-11T23:02:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+571,2025-12-10T22:58:44.135503,My order ORD-10571 is delayed. This is very frustrating.
+572,2025-12-14T18:50:44.135503,My delivery has not arrived yet. Order ORD-10572.
+573,2025-12-14T14:17:44.135503,My delivery has not arrived yet. Order ORD-10573.
+574,2025-12-13T15:44:44.135503,I have made the payment but not confirmed to order. Now what should i do
+575,2025-12-16T22:55:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+576,2025-12-18T14:38:44.135503,Just checking in for an update on my order ORD-10576. Thanks.
+577,2025-12-19T08:46:44.135503,My delivery has not arrived yet. Order ORD-10577.
+578,2025-12-11T03:42:44.135503,Is my product shipping is done ?
+579,2025-12-13T01:27:44.135503,I was charged incorrectly for order ORD-10579. Please fix this.
+580,2025-12-12T11:29:44.135503,I need help understanding my last invoice. Invoice INV-10580.
+581,2025-12-13T12:57:44.135503,Is my product shipping is done ?
+582,2025-12-20T22:29:44.135503,I have not received my refund for order ORD-10582.
+583,2025-12-10T23:18:44.135503,My delivery has not arrived yet. Order ORD-10583.
+584,2025-12-12T21:38:44.135503,Why is this taking so long? Order number ORD-10584.
+585,2025-12-12T09:02:44.135503,I was charged incorrectly for order ORD-10585. Please fix this.
+586,2025-12-17T02:35:44.135503,My order ORD-10586 is delayed. This is very frustrating.
+587,2025-12-11T13:38:44.135503,Just checking in for an update on my order ORD-10587. Thanks.
+588,2025-12-21T07:06:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+589,2025-12-13T01:28:44.135503,Please cancel my subscription immediately. Account ID ACC-10589.
+590,2025-12-14T22:14:44.135503,Is my product shipping is done ?
+591,2025-12-14T18:51:44.135503,Why is this taking so long? Order number ORD-10591.
+592,2025-12-20T04:49:44.135503,Why is this taking so long? Order number ORD-10592.
+593,2025-12-11T04:05:44.135503,I have not received my refund for order ORD-10593.
+594,2025-12-16T05:50:44.135503,Can you tell me the status of my order ORD-10594?
+595,2025-12-12T05:51:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+596,2025-12-19T09:01:44.135503,I requested a refund 6 days ago. Order ID ORD-10596. Please update.
+597,2025-12-13T10:03:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+598,2025-12-20T02:51:44.135503,Please cancel my subscription immediately. Account ID ACC-10598.
+599,2025-12-13T10:30:44.135503,I requested a refund 9 days ago. Order ID ORD-10599. Please update.
+600,2025-12-14T12:05:44.135503,My delivery has not arrived yet. Order ORD-10600.
+601,2025-12-20T10:11:44.135503,My delivery has not arrived yet. Order ORD-10601.
+602,2025-12-15T11:41:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+603,2025-12-16T11:16:44.135503,I have made the payment but not confirmed to order. Now what should i do
+604,2025-12-17T22:06:44.135503,I need help understanding my last invoice. Invoice INV-10604.
+605,2025-12-11T02:57:44.135503,I have not received my refund for order ORD-10605.
+606,2025-12-19T21:29:44.135503,My order ORD-10606 is delayed. This is very frustrating.
+607,2025-12-15T16:38:44.135503,My order ORD-10607 is delayed. This is very frustrating.
+608,2025-12-14T18:36:44.135503,I was charged incorrectly for order ORD-10608. Please fix this.
+609,2025-12-20T05:32:44.135503,Can you tell me the status of my order ORD-10609?
+610,2025-12-15T13:53:44.135503,My delivery has not arrived yet. Order ORD-10610.
+611,2025-12-15T04:04:44.135503,Can you tell me the status of my order ORD-10611?
+612,2025-12-19T03:47:44.135503,My order ORD-10612 is delayed. This is very frustrating.
+613,2025-12-19T21:33:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+614,2025-12-11T13:12:44.135503,Just checking in for an update on my order ORD-10614. Thanks.
+615,2025-12-17T22:19:44.135503,I requested a refund 5 days ago. Order ID ORD-10615. Please update.
+616,2025-12-19T20:48:44.135503,My delivery has not arrived yet. Order ORD-10616.
+617,2025-12-12T21:18:44.135503,My order ORD-10617 is delayed. This is very frustrating.
+618,2025-12-18T00:34:44.135503,Can you tell me the status of my order ORD-10618?
+619,2025-12-21T10:52:44.135503,Is my product shipping is done ?
+620,2025-12-10T16:12:44.135503,I need help understanding my last invoice. Invoice INV-10620.
+621,2025-12-21T05:09:44.135503,Why is this taking so long? Order number ORD-10621.
+622,2025-12-12T22:14:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+623,2025-12-15T13:13:44.135503,Please cancel my subscription immediately. Account ID ACC-10623.
+624,2025-12-11T08:23:44.135503,I have made the payment but not confirmed to order. Now what should i do
+625,2025-12-18T03:12:44.135503,My order ORD-10625 is delayed. This is very frustrating.
+626,2025-12-19T17:42:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+627,2025-12-18T07:25:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+628,2025-12-15T00:36:44.135503,I requested a refund 6 days ago. Order ID ORD-10628. Please update.
+629,2025-12-17T22:09:44.135503,I have made the payment but not confirmed to order. Now what should i do
+630,2025-12-20T11:21:44.135503,I have made the payment but not confirmed to order. Now what should i do
+631,2025-12-16T23:29:44.135503,I need help understanding my last invoice. Invoice INV-10631.
+632,2025-12-20T01:20:44.135503,Just checking in for an update on my order ORD-10632. Thanks.
+633,2025-12-17T06:40:44.135503,Why is this taking so long? Order number ORD-10633.
+634,2025-12-15T13:30:44.135503,My order ORD-10634 is delayed. This is very frustrating.
+635,2025-12-10T22:41:44.135503,My order ORD-10635 is delayed. This is very frustrating.
+636,2025-12-19T16:43:44.135503,I have made the payment but not confirmed to order. Now what should i do
+637,2025-12-20T04:34:44.135503,My delivery has not arrived yet. Order ORD-10637.
+638,2025-12-14T02:41:44.135503,Can you tell me the status of my order ORD-10638?
+639,2025-12-15T20:07:44.135503,I have not received my refund for order ORD-10639.
+640,2025-12-20T06:31:44.135503,Can you tell me the status of my order ORD-10640?
+641,2025-12-14T05:13:44.135503,Please cancel my subscription immediately. Account ID ACC-10641.
+642,2025-12-13T15:36:44.135503,My delivery has not arrived yet. Order ORD-10642.
+643,2025-12-19T02:28:44.135503,I have not received my refund for order ORD-10643.
+644,2025-12-19T07:22:44.135503,Why is this taking so long? Order number ORD-10644.
+645,2025-12-15T13:23:44.135503,My delivery has not arrived yet. Order ORD-10645.
+646,2025-12-17T11:13:44.135503,My delivery has not arrived yet. Order ORD-10646.
+647,2025-12-14T21:21:44.135503,My order ORD-10647 is delayed. This is very frustrating.
+648,2025-12-10T18:35:44.135503,My order ORD-10648 is delayed. This is very frustrating.
+649,2025-12-18T00:47:44.135503,I need help understanding my last invoice. Invoice INV-10649.
+650,2025-12-19T11:52:44.135503,Just checking in for an update on my order ORD-10650. Thanks.
+651,2025-12-12T22:45:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+652,2025-12-13T05:13:44.135503,I have made the payment but not confirmed to order. Now what should i do
+653,2025-12-17T14:37:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+654,2025-12-13T12:49:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+655,2025-12-12T15:03:44.135503,I was charged incorrectly for order ORD-10655. Please fix this.
+656,2025-12-21T02:18:44.135503,Can you tell me the status of my order ORD-10656?
+657,2025-12-11T04:52:44.135503,Is my product shipping is done ?
+658,2025-12-21T11:08:44.135503,I have not received my refund for order ORD-10658.
+659,2025-12-10T14:28:44.135503,Is my product shipping is done ?
+660,2025-12-10T16:33:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+661,2025-12-13T12:33:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+662,2025-12-18T06:54:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+663,2025-12-14T08:54:44.135503,Just checking in for an update on my order ORD-10663. Thanks.
+664,2025-12-19T21:27:44.135503,Is my product shipping is done ?
+665,2025-12-19T17:11:44.135503,I have not received my refund for order ORD-10665.
+666,2025-12-18T02:13:44.135503,Can you tell me the status of my order ORD-10666?
+667,2025-12-12T02:08:44.135503,Just checking in for an update on my order ORD-10667. Thanks.
+668,2025-12-18T01:09:44.135503,Is my product shipping is done ?
+669,2025-12-13T19:05:44.135503,Can you tell me the status of my order ORD-10669?
+670,2025-12-12T01:58:44.135503,I have made the payment but not confirmed to order. Now what should i do
+671,2025-12-12T14:53:44.135503,My delivery has not arrived yet. Order ORD-10671.
+672,2025-12-11T19:30:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+673,2025-12-13T06:52:44.135503,Why is this taking so long? Order number ORD-10673.
+674,2025-12-18T19:25:44.135503,My order ORD-10674 is delayed. This is very frustrating.
+675,2025-12-20T16:47:44.135503,I have made the payment but not confirmed to order. Now what should i do
+676,2025-12-17T07:48:44.135503,I have made the payment but not confirmed to order. Now what should i do
+677,2025-12-17T14:55:44.135503,I need help understanding my last invoice. Invoice INV-10677.
+678,2025-12-13T11:46:44.135503,I have not received my refund for order ORD-10678.
+679,2025-12-11T21:01:44.135503,I have made the payment but not confirmed to order. Now what should i do
+680,2025-12-17T14:59:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+681,2025-12-11T14:17:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+682,2025-12-12T08:39:44.135503,I have not received my refund for order ORD-10682.
+683,2025-12-11T19:38:44.135503,Please cancel my subscription immediately. Account ID ACC-10683.
+684,2025-12-18T00:25:44.135503,Why is this taking so long? Order number ORD-10684.
+685,2025-12-14T13:23:44.135503,Please cancel my subscription immediately. Account ID ACC-10685.
+686,2025-12-19T08:05:44.135503,I was charged incorrectly for order ORD-10686. Please fix this.
+687,2025-12-12T14:22:44.135503,I requested a refund 3 days ago. Order ID ORD-10687. Please update.
+688,2025-12-10T17:59:44.135503,I have made the payment but not confirmed to order. Now what should i do
+689,2025-12-19T11:34:44.135503,Please cancel my subscription immediately. Account ID ACC-10689.
+690,2025-12-17T10:16:44.135503,Is my product shipping is done ?
+691,2025-12-19T10:24:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+692,2025-12-17T13:04:44.135503,I have not received my refund for order ORD-10692.
+693,2025-12-19T03:12:44.135503,I need help understanding my last invoice. Invoice INV-10693.
+694,2025-12-21T06:33:44.135503,My order ORD-10694 is delayed. This is very frustrating.
+695,2025-12-11T13:11:44.135503,Is my product shipping is done ?
+696,2025-12-17T09:34:44.135503,Can you tell me the status of my order ORD-10696?
+697,2025-12-15T10:34:44.135503,Can you tell me the status of my order ORD-10697?
+698,2025-12-17T01:44:44.135503,Please cancel my subscription immediately. Account ID ACC-10698.
+699,2025-12-16T17:15:44.135503,My delivery has not arrived yet. Order ORD-10699.
+700,2025-12-14T12:38:44.135503,My delivery has not arrived yet. Order ORD-10700.
+701,2025-12-16T22:38:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+702,2025-12-14T14:56:44.135503,Is my product shipping is done ?
+703,2025-12-13T23:17:44.135503,I have not received my refund for order ORD-10703.
+704,2025-12-20T08:32:44.135503,My order ORD-10704 is delayed. This is very frustrating.
+705,2025-12-11T03:54:44.135503,Please cancel my subscription immediately. Account ID ACC-10705.
+706,2025-12-17T18:55:44.135503,My delivery has not arrived yet. Order ORD-10706.
+707,2025-12-10T22:48:44.135503,My order ORD-10707 is delayed. This is very frustrating.
+708,2025-12-15T05:24:44.135503,I need help understanding my last invoice. Invoice INV-10708.
+709,2025-12-20T15:40:44.135503,I was charged incorrectly for order ORD-10709. Please fix this.
+710,2025-12-11T14:29:44.135503,Why is this taking so long? Order number ORD-10710.
+711,2025-12-18T03:51:44.135503,I was charged incorrectly for order ORD-10711. Please fix this.
+712,2025-12-18T21:26:44.135503,I have made the payment but not confirmed to order. Now what should i do
+713,2025-12-19T03:23:44.135503,Why is this taking so long? Order number ORD-10713.
+714,2025-12-12T13:47:44.135503,I requested a refund 4 days ago. Order ID ORD-10714. Please update.
+715,2025-12-15T08:56:44.135503,I need help understanding my last invoice. Invoice INV-10715.
+716,2025-12-11T19:33:44.135503,I was charged incorrectly for order ORD-10716. Please fix this.
+717,2025-12-18T04:20:44.135503,My order ORD-10717 is delayed. This is very frustrating.
+718,2025-12-19T11:51:44.135503,My delivery has not arrived yet. Order ORD-10718.
+719,2025-12-20T02:04:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+720,2025-12-18T15:47:44.135503,I requested a refund 0 days ago. Order ID ORD-10720. Please update.
+721,2025-12-17T14:30:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+722,2025-12-14T18:02:44.135503,I need help understanding my last invoice. Invoice INV-10722.
+723,2025-12-15T07:19:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+724,2025-12-19T00:58:44.135503,I need help understanding my last invoice. Invoice INV-10724.
+725,2025-12-11T22:10:44.135503,I have not received my refund for order ORD-10725.
+726,2025-12-18T17:20:44.135503,Why is this taking so long? Order number ORD-10726.
+727,2025-12-11T19:17:44.135503,Please cancel my subscription immediately. Account ID ACC-10727.
+728,2025-12-10T16:18:44.135503,I have made the payment but not confirmed to order. Now what should i do
+729,2025-12-13T20:12:44.135503,Is my product shipping is done ?
+730,2025-12-15T19:15:44.135503,Please cancel my subscription immediately. Account ID ACC-10730.
+731,2025-12-12T21:10:44.135503,I requested a refund 4 days ago. Order ID ORD-10731. Please update.
+732,2025-12-16T18:31:44.135503,Please cancel my subscription immediately. Account ID ACC-10732.
+733,2025-12-14T19:59:44.135503,I have made the payment but not confirmed to order. Now what should i do
+734,2025-12-17T11:21:44.135503,Can you tell me the status of my order ORD-10734?
+735,2025-12-13T23:15:44.135503,Is my product shipping is done ?
+736,2025-12-10T15:07:44.135503,Can you tell me the status of my order ORD-10736?
+737,2025-12-17T13:47:44.135503,I requested a refund 10 days ago. Order ID ORD-10737. Please update.
+738,2025-12-12T05:42:44.135503,I was charged incorrectly for order ORD-10738. Please fix this.
+739,2025-12-21T02:10:44.135503,Just checking in for an update on my order ORD-10739. Thanks.
+740,2025-12-12T18:14:44.135503,Please cancel my subscription immediately. Account ID ACC-10740.
+741,2025-12-11T09:40:44.135503,I requested a refund 8 days ago. Order ID ORD-10741. Please update.
+742,2025-12-19T17:28:44.135503,Is my product shipping is done ?
+743,2025-12-11T03:03:44.135503,Why is this taking so long? Order number ORD-10743.
+744,2025-12-12T05:48:44.135503,My delivery has not arrived yet. Order ORD-10744.
+745,2025-12-14T21:06:44.135503,I requested a refund 7 days ago. Order ID ORD-10745. Please update.
+746,2025-12-20T04:36:44.135503,I need help understanding my last invoice. Invoice INV-10746.
+747,2025-12-12T03:17:44.135503,I have not received my refund for order ORD-10747.
+748,2025-12-12T18:15:44.135503,I need help understanding my last invoice. Invoice INV-10748.
+749,2025-12-10T20:48:44.135503,Is my product shipping is done ?
+750,2025-12-18T16:15:44.135503,Just checking in for an update on my order ORD-10750. Thanks.
+751,2025-12-18T00:10:44.135503,Is my product shipping is done ?
+752,2025-12-11T12:42:44.135503,My order ORD-10752 is delayed. This is very frustrating.
+753,2025-12-15T06:21:44.135503,Please cancel my subscription immediately. Account ID ACC-10753.
+754,2025-12-12T01:14:44.135503,My order ORD-10754 is delayed. This is very frustrating.
+755,2025-12-15T00:59:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+756,2025-12-17T11:24:44.135503,I requested a refund 6 days ago. Order ID ORD-10756. Please update.
+757,2025-12-18T07:55:44.135503,I have made the payment but not confirmed to order. Now what should i do
+758,2025-12-18T16:52:44.135503,I have not received my refund for order ORD-10758.
+759,2025-12-14T02:09:44.135503,My order ORD-10759 is delayed. This is very frustrating.
+760,2025-12-16T12:27:44.135503,Can you tell me the status of my order ORD-10760?
+761,2025-12-13T03:27:44.135503,My order ORD-10761 is delayed. This is very frustrating.
+762,2025-12-12T13:58:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+763,2025-12-18T02:33:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+764,2025-12-15T00:10:44.135503,I need help understanding my last invoice. Invoice INV-10764.
+765,2025-12-15T23:13:44.135503,I have not received my refund for order ORD-10765.
+766,2025-12-17T03:36:44.135503,I have made the payment but not confirmed to order. Now what should i do
+767,2025-12-20T03:06:44.135503,I requested a refund 2 days ago. Order ID ORD-10767. Please update.
+768,2025-12-19T03:04:44.135503,My delivery has not arrived yet. Order ORD-10768.
+769,2025-12-16T17:03:44.135503,I need help understanding my last invoice. Invoice INV-10769.
+770,2025-12-15T15:15:44.135503,My order ORD-10770 is delayed. This is very frustrating.
+771,2025-12-13T19:19:44.135503,I need help understanding my last invoice. Invoice INV-10771.
+772,2025-12-13T17:48:44.135503,Why is this taking so long? Order number ORD-10772.
+773,2025-12-11T15:26:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+774,2025-12-16T17:11:44.135503,Is my product shipping is done ?
+775,2025-12-15T06:49:44.135503,My delivery has not arrived yet. Order ORD-10775.
+776,2025-12-20T00:26:44.135503,I have made the payment but not confirmed to order. Now what should i do
+777,2025-12-20T21:50:44.135503,Why is this taking so long? Order number ORD-10777.
+778,2025-12-18T22:12:44.135503,I have not received my refund for order ORD-10778.
+779,2025-12-12T20:36:44.135503,I have made the payment but not confirmed to order. Now what should i do
+780,2025-12-20T11:46:44.135503,I need help understanding my last invoice. Invoice INV-10780.
+781,2025-12-14T23:33:44.135503,I have made the payment but not confirmed to order. Now what should i do
+782,2025-12-14T16:57:44.135503,I need help understanding my last invoice. Invoice INV-10782.
+783,2025-12-15T15:53:44.135503,Just checking in for an update on my order ORD-10783. Thanks.
+784,2025-12-17T05:47:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+785,2025-12-16T07:57:44.135503,Just checking in for an update on my order ORD-10785. Thanks.
+786,2025-12-20T04:14:44.135503,I was charged incorrectly for order ORD-10786. Please fix this.
+787,2025-12-13T01:37:44.135503,My delivery has not arrived yet. Order ORD-10787.
+788,2025-12-18T01:45:44.135503,Is my product shipping is done ?
+789,2025-12-19T17:39:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+790,2025-12-20T02:46:44.135503,I have made the payment but not confirmed to order. Now what should i do
+791,2025-12-16T20:10:44.135503,I requested a refund 5 days ago. Order ID ORD-10791. Please update.
+792,2025-12-21T08:26:44.135503,I need help understanding my last invoice. Invoice INV-10792.
+793,2025-12-16T23:59:44.135503,Can you tell me the status of my order ORD-10793?
+794,2025-12-21T08:00:44.135503,I was charged incorrectly for order ORD-10794. Please fix this.
+795,2025-12-19T22:05:44.135503,I have not received my refund for order ORD-10795.
+796,2025-12-18T02:11:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+797,2025-12-12T15:11:44.135503,Just checking in for an update on my order ORD-10797. Thanks.
+798,2025-12-11T03:42:44.135503,I requested a refund 2 days ago. Order ID ORD-10798. Please update.
+799,2025-12-14T22:37:44.135503,I requested a refund 0 days ago. Order ID ORD-10799. Please update.
+800,2025-12-14T21:49:44.135503,I need help understanding my last invoice. Invoice INV-10800.
+801,2025-12-16T00:17:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+802,2025-12-13T03:12:44.135503,I was charged incorrectly for order ORD-10802. Please fix this.
+803,2025-12-20T17:36:44.135503,I have not received my refund for order ORD-10803.
+804,2025-12-17T07:35:44.135503,Just checking in for an update on my order ORD-10804. Thanks.
+805,2025-12-20T03:18:44.135503,Please cancel my subscription immediately. Account ID ACC-10805.
+806,2025-12-12T00:34:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+807,2025-12-17T03:47:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+808,2025-12-10T22:50:44.135503,Is my product shipping is done ?
+809,2025-12-13T08:07:44.135503,I have not received my refund for order ORD-10809.
+810,2025-12-17T13:20:44.135503,Is my product shipping is done ?
+811,2025-12-10T19:57:44.135503,I requested a refund 6 days ago. Order ID ORD-10811. Please update.
+812,2025-12-14T12:58:44.135503,I requested a refund 0 days ago. Order ID ORD-10812. Please update.
+813,2025-12-19T09:52:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+814,2025-12-10T18:07:44.135503,Just checking in for an update on my order ORD-10814. Thanks.
+815,2025-12-17T08:08:44.135503,Why is this taking so long? Order number ORD-10815.
+816,2025-12-19T15:10:44.135503,I requested a refund 2 days ago. Order ID ORD-10816. Please update.
+817,2025-12-19T15:17:44.135503,I was charged incorrectly for order ORD-10817. Please fix this.
+818,2025-12-19T00:38:44.135503,Can you tell me the status of my order ORD-10818?
+819,2025-12-16T16:02:44.135503,Why is this taking so long? Order number ORD-10819.
+820,2025-12-18T06:56:44.135503,My delivery has not arrived yet. Order ORD-10820.
+821,2025-12-18T04:30:44.135503,I have not received my refund for order ORD-10821.
+822,2025-12-16T22:20:44.135503,Just checking in for an update on my order ORD-10822. Thanks.
+823,2025-12-16T13:04:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+824,2025-12-11T23:30:44.135503,Is my product shipping is done ?
+825,2025-12-14T07:42:44.135503,Is my product shipping is done ?
+826,2025-12-13T01:11:44.135503,My order ORD-10826 is delayed. This is very frustrating.
+827,2025-12-17T12:37:44.135503,I need help understanding my last invoice. Invoice INV-10827.
+828,2025-12-21T00:46:44.135503,Just checking in for an update on my order ORD-10828. Thanks.
+829,2025-12-19T06:05:44.135503,My order ORD-10829 is delayed. This is very frustrating.
+830,2025-12-19T13:15:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+831,2025-12-20T21:16:44.135503,Can you tell me the status of my order ORD-10831?
+832,2025-12-17T15:02:44.135503,My delivery has not arrived yet. Order ORD-10832.
+833,2025-12-14T16:50:44.135503,Why is this taking so long? Order number ORD-10833.
+834,2025-12-14T11:36:44.135503,Can you tell me the status of my order ORD-10834?
+835,2025-12-14T01:07:44.135503,Please cancel my subscription immediately. Account ID ACC-10835.
+836,2025-12-17T22:10:44.135503,Is my product shipping is done ?
+837,2025-12-13T07:51:44.135503,My order ORD-10837 is delayed. This is very frustrating.
+838,2025-12-17T09:38:44.135503,My delivery has not arrived yet. Order ORD-10838.
+839,2025-12-19T02:21:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+840,2025-12-20T02:41:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+841,2025-12-21T05:56:44.135503,Please cancel my subscription immediately. Account ID ACC-10841.
+842,2025-12-19T16:50:44.135503,Just checking in for an update on my order ORD-10842. Thanks.
+843,2025-12-14T14:48:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+844,2025-12-21T09:19:44.135503,Please cancel my subscription immediately. Account ID ACC-10844.
+845,2025-12-19T11:32:44.135503,I requested a refund 5 days ago. Order ID ORD-10845. Please update.
+846,2025-12-19T03:00:44.135503,My delivery has not arrived yet. Order ORD-10846.
+847,2025-12-15T06:09:44.135503,Why is this taking so long? Order number ORD-10847.
+848,2025-12-18T05:27:44.135503,Just checking in for an update on my order ORD-10848. Thanks.
+849,2025-12-12T03:02:44.135503,Please cancel my subscription immediately. Account ID ACC-10849.
+850,2025-12-14T20:43:44.135503,I requested a refund 9 days ago. Order ID ORD-10850. Please update.
+851,2025-12-10T23:55:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+852,2025-12-19T23:20:44.135503,Just checking in for an update on my order ORD-10852. Thanks.
+853,2025-12-11T05:14:44.135503,I need help understanding my last invoice. Invoice INV-10853.
+854,2025-12-12T21:36:44.135503,I have not received my refund for order ORD-10854.
+855,2025-12-12T05:45:44.135503,I have made the payment but not confirmed to order. Now what should i do
+856,2025-12-20T01:01:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+857,2025-12-14T14:53:44.135503,Can you tell me the status of my order ORD-10857?
+858,2025-12-14T21:11:44.135503,My order ORD-10858 is delayed. This is very frustrating.
+859,2025-12-20T06:49:44.135503,I requested a refund 9 days ago. Order ID ORD-10859. Please update.
+860,2025-12-19T04:43:44.135503,I have not received my refund for order ORD-10860.
+861,2025-12-13T12:25:44.135503,I was charged incorrectly for order ORD-10861. Please fix this.
+862,2025-12-10T13:00:44.135503,I was charged incorrectly for order ORD-10862. Please fix this.
+863,2025-12-13T21:45:44.135503,I have not received my refund for order ORD-10863.
+864,2025-12-12T16:57:44.135503,I have made the payment but not confirmed to order. Now what should i do
+865,2025-12-10T14:59:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+866,2025-12-19T20:37:44.135503,Is my product shipping is done ?
+867,2025-12-12T21:37:44.135503,I was charged incorrectly for order ORD-10867. Please fix this.
+868,2025-12-20T19:54:44.135503,My delivery has not arrived yet. Order ORD-10868.
+869,2025-12-16T15:04:44.135503,Just checking in for an update on my order ORD-10869. Thanks.
+870,2025-12-11T07:42:44.135503,I requested a refund 4 days ago. Order ID ORD-10870. Please update.
+871,2025-12-17T17:51:44.135503,I need help understanding my last invoice. Invoice INV-10871.
+872,2025-12-13T16:04:44.135503,I need help understanding my last invoice. Invoice INV-10872.
+873,2025-12-20T13:50:44.135503,Why is this taking so long? Order number ORD-10873.
+874,2025-12-11T14:16:44.135503,I was charged incorrectly for order ORD-10874. Please fix this.
+875,2025-12-16T16:04:44.135503,Please cancel my subscription immediately. Account ID ACC-10875.
+876,2025-12-20T21:52:44.135503,Can you tell me the status of my order ORD-10876?
+877,2025-12-16T18:14:44.135503,My delivery has not arrived yet. Order ORD-10877.
+878,2025-12-10T17:37:44.135503,Is my product shipping is done ?
+879,2025-12-18T17:19:44.135503,I need help understanding my last invoice. Invoice INV-10879.
+880,2025-12-15T04:10:44.135503,Can you tell me the status of my order ORD-10880?
+881,2025-12-20T05:59:44.135503,Just checking in for an update on my order ORD-10881. Thanks.
+882,2025-12-20T07:25:44.135503,My delivery has not arrived yet. Order ORD-10882.
+883,2025-12-13T05:37:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+884,2025-12-15T21:43:44.135503,My delivery has not arrived yet. Order ORD-10884.
+885,2025-12-12T09:56:44.135503,Is my product shipping is done ?
+886,2025-12-12T13:24:44.135503,I need help understanding my last invoice. Invoice INV-10886.
+887,2025-12-12T19:52:44.135503,Just checking in for an update on my order ORD-10887. Thanks.
+888,2025-12-20T17:24:44.135503,Just checking in for an update on my order ORD-10888. Thanks.
+889,2025-12-19T05:30:44.135503,Can you tell me the status of my order ORD-10889?
+890,2025-12-16T19:48:44.135503,My delivery has not arrived yet. Order ORD-10890.
+891,2025-12-18T04:16:44.135503,I requested a refund 1 days ago. Order ID ORD-10891. Please update.
+892,2025-12-13T12:56:44.135503,I need help understanding my last invoice. Invoice INV-10892.
+893,2025-12-14T11:59:44.135503,I requested a refund 10 days ago. Order ID ORD-10893. Please update.
+894,2025-12-14T12:52:44.135503,I have not received my refund for order ORD-10894.
+895,2025-12-16T12:46:44.135503,My delivery has not arrived yet. Order ORD-10895.
+896,2025-12-12T00:06:44.135503,Is my product shipping is done ?
+897,2025-12-12T06:55:44.135503,Please cancel my subscription immediately. Account ID ACC-10897.
+898,2025-12-15T21:01:44.135503,Can you tell me the status of my order ORD-10898?
+899,2025-12-10T15:48:44.135503,Is my product shipping is done ?
+900,2025-12-16T22:08:44.135503,Please cancel my subscription immediately. Account ID ACC-10900.
+901,2025-12-12T15:03:44.135503,Please cancel my subscription immediately. Account ID ACC-10901.
+902,2025-12-14T23:26:44.135503,I have not received my refund for order ORD-10902.
+903,2025-12-19T11:50:44.135503,My order ORD-10903 is delayed. This is very frustrating.
+904,2025-12-18T09:20:44.135503,My delivery has not arrived yet. Order ORD-10904.
+905,2025-12-13T16:34:44.135503,I requested a refund 7 days ago. Order ID ORD-10905. Please update.
+906,2025-12-18T04:26:44.135503,Is my product shipping is done ?
+907,2025-12-15T19:43:44.135503,I have not received my refund for order ORD-10907.
+908,2025-12-20T00:29:44.135503,I was charged incorrectly for order ORD-10908. Please fix this.
+909,2025-12-14T06:45:44.135503,I requested a refund 1 days ago. Order ID ORD-10909. Please update.
+910,2025-12-15T09:10:44.135503,Please cancel my subscription immediately. Account ID ACC-10910.
+911,2025-12-21T11:51:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+912,2025-12-11T08:29:44.135503,My order ORD-10912 is delayed. This is very frustrating.
+913,2025-12-19T03:56:44.135503,I need help understanding my last invoice. Invoice INV-10913.
+914,2025-12-19T19:15:44.135503,My delivery has not arrived yet. Order ORD-10914.
+915,2025-12-11T22:50:44.135503,Can you tell me the status of my order ORD-10915?
+916,2025-12-20T01:05:44.135503,I have made the payment but not confirmed to order. Now what should i do
+917,2025-12-19T05:56:44.135503,I need help understanding my last invoice. Invoice INV-10917.
+918,2025-12-20T22:01:44.135503,Why is this taking so long? Order number ORD-10918.
+919,2025-12-18T04:02:44.135503,I need help understanding my last invoice. Invoice INV-10919.
+920,2025-12-18T10:31:44.135503,Is my product shipping is done ?
+921,2025-12-14T20:38:44.135503,Please cancel my subscription immediately. Account ID ACC-10921.
+922,2025-12-19T18:18:44.135503,I have made the payment but not confirmed to order. Now what should i do
+923,2025-12-18T03:54:44.135503,Just checking in for an update on my order ORD-10923. Thanks.
+924,2025-12-17T18:16:44.135503,I have made the payment but not confirmed to order. Now what should i do
+925,2025-12-15T18:56:44.135503,I need help understanding my last invoice. Invoice INV-10925.
+926,2025-12-16T12:30:44.135503,I have not received my refund for order ORD-10926.
+927,2025-12-17T11:22:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+928,2025-12-20T22:30:44.135503,I was charged incorrectly for order ORD-10928. Please fix this.
+929,2025-12-19T02:19:44.135503,My order ORD-10929 is delayed. This is very frustrating.
+930,2025-12-17T06:56:44.135503,Can you tell me the status of my order ORD-10930?
+931,2025-12-14T08:19:44.135503,Can you tell me the status of my order ORD-10931?
+932,2025-12-10T15:13:44.135503,Please cancel my subscription immediately. Account ID ACC-10932.
+933,2025-12-17T01:30:44.135503,I have not received my refund for order ORD-10933.
+934,2025-12-10T20:26:44.135503,I was charged incorrectly for order ORD-10934. Please fix this.
+935,2025-12-16T16:19:44.135503,I requested a refund 0 days ago. Order ID ORD-10935. Please update.
+936,2025-12-11T19:49:44.135503,I have not received my refund for order ORD-10936.
+937,2025-12-14T18:50:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+938,2025-12-13T16:12:44.135503,I have made the payment but not confirmed to order. Now what should i do
+939,2025-12-12T12:59:44.135503,Is my product shipping is done ?
+940,2025-12-19T14:02:44.135503,My order ORD-10940 is delayed. This is very frustrating.
+941,2025-12-16T20:00:44.135503,My delivery has not arrived yet. Order ORD-10941.
+942,2025-12-15T11:12:44.135503,I was charged incorrectly for order ORD-10942. Please fix this.
+943,2025-12-12T04:38:44.135503,Can you tell me the status of my order ORD-10943?
+944,2025-12-16T23:31:44.135503,I was charged incorrectly for order ORD-10944. Please fix this.
+945,2025-12-10T16:18:44.135503,Please cancel my subscription immediately. Account ID ACC-10945.
+946,2025-12-12T20:42:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+947,2025-12-13T00:10:44.135503,Please cancel my subscription immediately. Account ID ACC-10947.
+948,2025-12-19T09:32:44.135503,I requested a refund 3 days ago. Order ID ORD-10948. Please update.
+949,2025-12-20T22:14:44.135503,My delivery has not arrived yet. Order ORD-10949.
+950,2025-12-14T22:23:44.135503,I was charged incorrectly for order ORD-10950. Please fix this.
+951,2025-12-13T13:13:44.135503,Is my product shipping is done ?
+952,2025-12-20T06:59:44.135503,Please cancel my subscription immediately. Account ID ACC-10952.
+953,2025-12-21T10:31:44.135503,My delivery has not arrived yet. Order ORD-10953.
+954,2025-12-16T19:48:44.135503,Why is this taking so long? Order number ORD-10954.
+955,2025-12-10T13:54:44.135503,I have not received my refund for order ORD-10955.
+956,2025-12-13T18:34:44.135503,I was charged incorrectly for order ORD-10956. Please fix this.
+957,2025-12-17T06:55:44.135503,My order ORD-10957 is delayed. This is very frustrating.
+958,2025-12-10T16:40:44.135503,I was charged incorrectly for order ORD-10958. Please fix this.
+959,2025-12-12T09:37:44.135503,Please cancel my subscription immediately. Account ID ACC-10959.
+960,2025-12-18T16:35:44.135503,Is my product shipping is done ?
+961,2025-12-18T02:02:44.135503,Just checking in for an update on my order ORD-10961. Thanks.
+962,2025-12-19T07:44:44.135503,Can you tell me the status of my order ORD-10962?
+963,2025-12-10T22:01:44.135503,I need help understanding my last invoice. Invoice INV-10963.
+964,2025-12-15T22:17:44.135503,I have made the payment but not confirmed to order. Now what should i do
+965,2025-12-12T06:27:44.135503,Can you tell me the status of my order ORD-10965?
+966,2025-12-17T01:07:44.135503,Why is this taking so long? Order number ORD-10966.
+967,2025-12-10T19:09:44.135503,I requested a refund 3 days ago. Order ID ORD-10967. Please update.
+968,2025-12-20T11:44:44.135503,Can you tell me the status of my order ORD-10968?
+969,2025-12-11T06:43:44.135503,I requested a refund 2 days ago. Order ID ORD-10969. Please update.
+970,2025-12-10T16:53:44.135503,I need help understanding my last invoice. Invoice INV-10970.
+971,2025-12-16T21:42:44.135503,My order ORD-10971 is delayed. This is very frustrating.
+972,2025-12-18T09:16:44.135503,Please cancel my subscription immediately. Account ID ACC-10972.
+973,2025-12-20T14:05:44.135503,Can you tell me the status of my order ORD-10973?
+974,2025-12-18T16:36:44.135503,Why is this taking so long? Order number ORD-10974.
+975,2025-12-17T03:17:44.135503,Is my product shipping is done ?
+976,2025-12-16T08:43:44.135503,I requested a refund 6 days ago. Order ID ORD-10976. Please update.
+977,2025-12-14T14:18:44.135503,My delivery has not arrived yet. Order ORD-10977.
+978,2025-12-21T08:05:44.135503,I have made the payment but not confirmed to order. Now what should i do
+979,2025-12-20T06:07:44.135503,Can you tell me the status of my order ORD-10979?
+980,2025-12-12T22:12:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+981,2025-12-17T02:36:44.135503,My order ORD-10981 is delayed. This is very frustrating.
+982,2025-12-11T02:06:44.135503,My delivery has not arrived yet. Order ORD-10982.
+983,2025-12-21T03:05:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+984,2025-12-19T18:19:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+985,2025-12-14T10:20:44.135503,My delivery has not arrived yet. Order ORD-10985.
+986,2025-12-11T03:33:44.135503,I requested a refund 5 days ago. Order ID ORD-10986. Please update.
+987,2025-12-18T07:52:44.135503,My delivery has not arrived yet. Order ORD-10987.
+988,2025-12-11T13:53:44.135503,I requested a refund 10 days ago. Order ID ORD-10988. Please update.
+989,2025-12-18T13:27:44.135503,"I have ordered 2 products , i recieved from both at a time form same delivery person , I didnt like both the proeducts i requested for return . The agent alloted is different for each product but the delivery agent took my both product and not answering calls i want refund for both the products."
+990,2025-12-10T22:21:44.135503,Please cancel my subscription immediately. Account ID ACC-10990.
+991,2025-12-21T07:20:44.135503,I need help understanding my last invoice. Invoice INV-10991.
+992,2025-12-12T05:19:44.135503,Is my product shipping is done ?
+993,2025-12-14T03:03:44.135503,My order ORD-10993 is delayed. This is very frustrating.
+994,2025-12-19T20:21:44.135503,Just checking in for an update on my order ORD-10994. Thanks.
+995,2025-12-17T09:55:44.135503,My order ORD-10995 is delayed. This is very frustrating.
+996,2025-12-14T17:35:44.135503,I requested a refund 2 days ago. Order ID ORD-10996. Please update.
+997,2025-12-20T00:09:44.135503,I have not received my refund for order ORD-10997.
+998,2025-12-17T05:34:44.135503,I have made the payment but not confirmed to order. Now what should i do
+999,2025-12-11T01:37:44.135503,"I ordered a product but i recieved a old used product , refund my money"
+1000,2025-12-17T19:20:44.135503,I need help understanding my last invoice. Invoice INV-11000.
