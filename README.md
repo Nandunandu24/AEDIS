@@ -23,8 +23,10 @@ Email → Reasoning (Policy + Cost + SLA) → Routing → Execution → Explanat
 - Rule-based + ML-assisted reasoning
 
 ## How to Run Locally
+
+https://jrg5dffummgve25heuoa66.streamlit.app/
 ```bash
+
 pip install -r requirements.txt
 streamlit run app.py
 
-https://jrg5dffummgve25heuoa66.streamlit.app/
